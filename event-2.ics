@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Diksha and Aagman//Wedding//EN
+BEGIN:VEVENT
+UID:bride-event-2@diksha-aagman
+DTSTAMP:20261011T000000Z
+DTSTART:20261110T123000Z
+SUMMARY:Mehandi\, Music & Magic — Diksha & Aagman
+LOCATION:Country Inn & Suits\, By Radisson Blu\, Bahu Plaza Jammu
+END:VEVENT
+END:VCALENDAR

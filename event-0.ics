@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Diksha and Aagman//Wedding//EN
+BEGIN:VEVENT
+UID:bride-event-0@diksha-aagman
+DTSTAMP:20261011T000000Z
+DTSTART:20261106T103000Z
+SUMMARY:Mata Ki Chowki — Diksha & Aagman
+LOCATION:H.No. 5\, Lane Opposite HP Petrol Pump\, Preet Nagar\, Jammu
+END:VEVENT
+END:VCALENDAR

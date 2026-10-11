@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Diksha and Aagman//Wedding//EN
+BEGIN:VEVENT
+UID:bride-event-4@diksha-aagman
+DTSTAMP:20261011T000000Z
+DTSTART:20261112T130000Z
+SUMMARY:Reception of Barat — Diksha & Aagman
+LOCATION:Celebration Banquet Resort\, Marble Market\, Jammu
+END:VEVENT
+END:VCALENDAR
